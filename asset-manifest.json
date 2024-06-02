@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dikshant3221/BrahmanSamaj/static/css/main.5c555f9e.css",
-    "main.js": "/dikshant3221/BrahmanSamaj/static/js/main.6339cff3.js",
-    "static/js/239.293f6d6c.chunk.js": "/dikshant3221/BrahmanSamaj/static/js/239.293f6d6c.chunk.js",
-    "static/js/213.eb92749f.chunk.js": "/dikshant3221/BrahmanSamaj/static/js/213.eb92749f.chunk.js",
-    "static/js/732.2fd788e8.chunk.js": "/dikshant3221/BrahmanSamaj/static/js/732.2fd788e8.chunk.js",
-    "static/js/453.4cc67924.chunk.js": "/dikshant3221/BrahmanSamaj/static/js/453.4cc67924.chunk.js",
-    "static/media/309410667_465974362223740__n.jpg": "/dikshant3221/BrahmanSamaj/static/media/309410667_465974362223740_2553071756099372055_n.857d27c0f97a9080c3a4.jpg",
-    "index.html": "/dikshant3221/BrahmanSamaj/index.html",
-    "main.5c555f9e.css.map": "/dikshant3221/BrahmanSamaj/static/css/main.5c555f9e.css.map",
-    "main.6339cff3.js.map": "/dikshant3221/BrahmanSamaj/static/js/main.6339cff3.js.map",
-    "239.293f6d6c.chunk.js.map": "/dikshant3221/BrahmanSamaj/static/js/239.293f6d6c.chunk.js.map",
-    "213.eb92749f.chunk.js.map": "/dikshant3221/BrahmanSamaj/static/js/213.eb92749f.chunk.js.map",
-    "732.2fd788e8.chunk.js.map": "/dikshant3221/BrahmanSamaj/static/js/732.2fd788e8.chunk.js.map",
-    "453.4cc67924.chunk.js.map": "/dikshant3221/BrahmanSamaj/static/js/453.4cc67924.chunk.js.map"
+    "main.css": "/BrahmanSamaj/static/css/main.d12272fe.css",
+    "main.js": "/BrahmanSamaj/static/js/main.fb3a8442.js",
+    "static/js/239.293f6d6c.chunk.js": "/BrahmanSamaj/static/js/239.293f6d6c.chunk.js",
+    "static/js/213.eb92749f.chunk.js": "/BrahmanSamaj/static/js/213.eb92749f.chunk.js",
+    "static/js/732.2fd788e8.chunk.js": "/BrahmanSamaj/static/js/732.2fd788e8.chunk.js",
+    "static/js/453.4cc67924.chunk.js": "/BrahmanSamaj/static/js/453.4cc67924.chunk.js",
+    "static/media/309410667_465974362223740__n.jpg": "/BrahmanSamaj/static/media/309410667_465974362223740_2553071756099372055_n.857d27c0f97a9080c3a4.jpg",
+    "index.html": "/BrahmanSamaj/index.html",
+    "main.d12272fe.css.map": "/BrahmanSamaj/static/css/main.d12272fe.css.map",
+    "main.fb3a8442.js.map": "/BrahmanSamaj/static/js/main.fb3a8442.js.map",
+    "239.293f6d6c.chunk.js.map": "/BrahmanSamaj/static/js/239.293f6d6c.chunk.js.map",
+    "213.eb92749f.chunk.js.map": "/BrahmanSamaj/static/js/213.eb92749f.chunk.js.map",
+    "732.2fd788e8.chunk.js.map": "/BrahmanSamaj/static/js/732.2fd788e8.chunk.js.map",
+    "453.4cc67924.chunk.js.map": "/BrahmanSamaj/static/js/453.4cc67924.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c555f9e.css",
-    "static/js/main.6339cff3.js"
+    "static/css/main.d12272fe.css",
+    "static/js/main.fb3a8442.js"
   ]
 }
