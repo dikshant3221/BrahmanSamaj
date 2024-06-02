@@ -1,0 +1,37 @@
+.App{
+  background: url('../public/309410667_465974362223740_2553071756099372055_n.jpg');
+  background-size: 250px;
+}
+.logo{
+  position: relative;
+}
+body {
+  background-color: #f8f9fa; /* Light background color */
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+header, footer {
+  background-color: #007bff;
+  color: white;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-control {
+  width: 100%;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.card-header{
+  background-color: rebeccapurple;
+}
